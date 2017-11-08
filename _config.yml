@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: AndyPerlitch.net
+title: Andy Perlitch
 description: Andy Perlitch's personal website, resume, and blog.
 keywords: webdev,blog,javascript,angularJS,angular
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -23,12 +23,12 @@ author:  # change following line to your infomation.
   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: icon-javascript-alt
+    - name: icon-html5
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
-  desc: Husband/Father/Musician/Software Developer
+    - name: icon-d3
+    - name: icon-angular
+  desc: Hi there! I like building software. Creating interactive UI and visualizations is my specialty, but I am comfortable across the entire stack. I am husband to a gorgeous and caring wife, and father to two beautiful kids. Also, I play a mean saxophone!
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

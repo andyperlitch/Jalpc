@@ -30,4 +30,7 @@ var cbpAnimatedHeader = (function() {
 })();
 
 // Activate WOW.js plugin for animation on scroll
-new WOW().init();
+console.log('fuuuuuuk')
+new WOW({ callback: function(el) {
+    console.log(el);
+}}).init();
