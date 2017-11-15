@@ -6,11 +6,14 @@ module.exports = {
         type: 'js',
         list: [
             'node_modules/jquery/dist/jquery.js',
-            'static/js/bs3-typeahead.js',//
+            'static/js/bs3-typeahead.js',
             'node_modules/bootstrap/dist/js/bootstrap.js',
-            'node_modules/chart.js/dist/Chart.js',
+            'node_modules/d3/build/d3.js',
             'node_modules/pace-progress/pace.js',
             'node_modules/wowjs/dist/wow.js',
+            'node_modules/highlight.js/lib/highlight.js',
+            'node_modules/skills-barchart/dist/skills-barchart.js',
+            'static/js/skills.js',
             'static/js/scroll.js',
             'static/js/count.js'
         ]

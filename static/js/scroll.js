@@ -30,7 +30,8 @@ var cbpAnimatedHeader = (function() {
 })();
 
 // Activate WOW.js plugin for animation on scroll
-console.log('fuuuuuuk')
 new WOW({ callback: function(el) {
-    console.log(el);
+    if (el.id === 'skill-chart-wrapper') {
+        skillChart.render();
+    }
 }}).init();
