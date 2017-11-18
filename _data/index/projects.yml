@@ -1,22 +1,19 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: ngx-super-table
+  gh_user: andyperlitch
+  repo: ngx-super-table
+  img: /static/assets/img/landing/ngx-super-table.png
+  desc: A feature-rich table component built with Angular.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: ngx-d3-tooltip
+  gh_user: andyperlitch
+  repo: ngx-d3-tooltip
+  img: /static/assets/img/landing/d3tooltip.png
+  desc: Add tooltips to your d3 visualizations using Angular Components.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: my npm packages
+  url: https://www.npmjs.com/~andyperlitch
+  img: /static/assets/img/landing/npm.png
+  desc: Here you will find a list of npm packages I have published.
