@@ -106,11 +106,12 @@
     detail: |
       ### Summary
 
-      Co-founded, designed, and developed euphoricstyles.com, a single-page web app where users can browse through music, art, and clothing to purchase, all while listening to uninterrupted music.
+      Co-founded, designed, and developed euphoricstyles.com, a single-page web app where users can browse through music, art, and clothing to purchase, all while listening to uninterrupted music (the site has since been re-done).
 
       ### Responsibilities
 
       - Integration with **Authorize.net's payment gateway API** (using PHP)
+      - Full **RDBMS database design** (MySQL), implementation and management
       - Completely **AJAX-driven SPA** with no page refreshes so that music can play continuously while users browse
       - Created a login system with CMS dashboards for admin, artists, and users of the site
       - **Integration with Great Apparel for You**, a fulfillment company that automates the production and shipment of apparel with custom, digitally-printed artwork
