@@ -198,3 +198,8 @@ If this project let you enjoy your blog time, you can give me a cup of coffee :)
 # Ad
 [Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
 
+
+
+# Banner
+
+Font for banner images: `Inkpen2 Script Std`
