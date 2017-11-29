@@ -24,16 +24,16 @@
                 <h4><span class="navy">{{ site.author.first_name }}</span> {{ site.author.last_name }}</h4>
                 <ul class="list-inline social-icon">
                     {% if site.author.github_username %}
-                    <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a></li>
+                    <li><a href="https://github.com/{{ site.author.github_username }}" title="My Github" target="blank"><i class="fa fa-github"></i></a></li>
                     {% endif %}
                     {% if site.author.linkedin_id %}
-                    <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}" target="blank"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin_id }}" title="My LinkedIn" target="blank"><i class="fa fa-linkedin"></i></a></li>
                     {% endif %}
                     {% if site.author.facebook_username %}
                     <li><a href="https://www.facebook.com/{{ site.author.facebook_username }}" target="blank"><i class="fa fa-facebook"></i></a></li>
                     {% endif %}
                     {% if site.author.soundcloud_username %}
-                    <li><a href="https://soundcloud.com/{{ site.author.soundcloud_username }}" target="blank"><i class="fa fa-soundcloud"></i></a></li>
+                    <li><a href="https://soundcloud.com/{{ site.author.soundcloud_username }}" title="My Music on SoundCloud" target="blank"><i class="fa fa-soundcloud"></i></a></li>
                     {% endif %}
                     {% if site.author.email %}
                     <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
