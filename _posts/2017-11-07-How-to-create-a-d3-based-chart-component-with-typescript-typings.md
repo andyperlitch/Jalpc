@@ -8,6 +8,7 @@ keywords: "d3.js,npm,modularity,typescript,typings,library"
 categories: [tutorials]
 tags: [d3,typescript,library,module,plugin]
 icon: icon-typescript
+published: false
 ---
 
 
