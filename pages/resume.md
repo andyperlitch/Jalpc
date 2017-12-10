@@ -25,7 +25,7 @@ Experience
 
 #### Lead Front-End Architect and Engineer
 
-##### Nov 2015 - Nov 2017
+##### Nov 2015 - Nov 2017 (2 years)
 
 - Led the design and development of the UI with interactive, complex visualizations for an advanced software appliance that provided security assurance upon Cisco ACI fabrics.
 - Learned **advanced networking concepts** like the OSSI model, life cycle of a packet, and SDN
@@ -45,7 +45,7 @@ HTML5, CSS/LESS, JavaScript (ES5, ES6, TypeScript, node+npm), AngularJS, D3.js, 
 
 #### Software Engineer
 
-##### January 2013 - Current
+##### January 2013 - November 2015 (2 years 11 months)
 
 - Led the design and development of UI dashboard for the DataTorrent platform:
   - **mock-ups/wireframe** creation
@@ -66,7 +66,7 @@ HTML5, CSS/LESS, JavaScript, angular.js, backbone.js, node.js, npm, bower, karma
 
 #### Web Developer / IT Support
 
-##### Aug 2010 - Dec 2012
+##### Aug 2010 - Dec 2012 (2 years 4 months)
 
 - Built AircraftCovers.com
   - Deployed April 2012, total number of internet orders for 2012 over 25% more than in 2011.
@@ -93,7 +93,7 @@ HTML, CSS, PHP, MySQL, JavaScript, require.js, jQuery, UNIX/Linux, Git
 
 #### Partner / Lead Full-Stack Developer
 
-##### Feb 2010 - July 2012
+##### Feb 2010 - July 2012 (2 years 5 months)
 
 * Designed and developed euphoricstyles.com, a single-page web app where users can browse through music, art, and clothing to purchase, all while listening to uninterrupted music.
 * Integration with Authorize.net's payment gateway API (using custom-built PHP code)
@@ -109,7 +109,7 @@ HTML, CSS, PHP, MySQL, JavaScript, require.js, jQuery, UNIX/Linux, Git
 
 #### Web Developer Intern
 
-##### Jan 2008 - Dec 2009
+##### Jan 2008 - Dec 2009 (1 year 11 months)
 
 * Created various UX and UI elements of client sites using javascript, CSS, and XHTML
 * Learned and implemented basic back-end systems using PHP and MySQL
